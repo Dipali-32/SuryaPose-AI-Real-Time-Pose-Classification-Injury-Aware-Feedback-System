@@ -43,7 +43,5 @@
 
 ---
 
-## 📽️ Demo
 
-*(Add your video demo link or GIF preview here)*
 
